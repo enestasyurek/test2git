@@ -13,6 +13,7 @@ public class student {
         System.out.println("Object created");
     }
 
+
     public student(String name) {
         this.name = name;
     }
